@@ -1,0 +1,1 @@
+Node.js simply calls the API to retrieve data. If improvements are needed, the queried data can be saved to memory and then persisted to the local disk, making the method of querying local files effective.
